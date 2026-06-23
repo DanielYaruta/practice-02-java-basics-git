@@ -1,9 +1,9 @@
-# practice-02-java-basics-git
+# Java Mini-Apps Console
 
 ![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-Консольное приложение на Java для отработки базовых конструкций языка: условные операторы, циклы, обработка пользовательского ввода.
+Консольное меню с набором мини-приложений на Java: игры, утилиты и учебные задачи в одном месте.
 
 ---
 
