@@ -2,7 +2,6 @@
 
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-3.6+-C71A36?logo=apachemaven&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 Консольное приложение на Java для отработки базовых конструкций языка: условные операторы, циклы, обработка пользовательского ввода.
 
@@ -15,18 +14,6 @@
 | 1 | `TimeOfDay` | Определяет время суток (утро / день / вечер / ночь) по введённому часу |
 | 2 | `MultiplicationTable` | Выводит таблицу умножения для числа от 1 до 9 |
 | 3 | `GuessNumber` | Игра «Угадай число»: программа загадывает число от 1 до 100, игрок угадывает с подсказками |
-
----
-
-## Запуск
-
-**Требования:** Java 17+, Maven 3.6+
-
-```bash
-mvn compile exec:java -Dexec.mainClass=org.example.Main
-```
-
-Или запустить класс `Main` напрямую из IDE.
 
 ---
 
